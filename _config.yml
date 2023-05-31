@@ -1,4 +1,6 @@
-theme: jekyll-theme-slate
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: This is the personal homepage of the lover boy
 description: What you will find here are some of my projects and personal portofolio. Please let me know for further inquiries. 
 plugins:
