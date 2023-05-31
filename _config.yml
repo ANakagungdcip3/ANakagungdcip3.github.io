@@ -1,6 +1,6 @@
-remote_theme: pages-themes/slate@v0.2.0
 title: This is the personal homepage of the lover boy
 description: What you will find here are some of my projects and personal portofolio. Please let me know for further inquiries. 
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jemoji
   - jekyll-remote-theme
