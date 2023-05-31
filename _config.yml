@@ -3,5 +3,5 @@ description: What you will find here are some of my projects and personal portof
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme
-url: "https://ANakagungdcip3.github.io/;
+url: "https://ANakagungdcip3.github.io/"
 markdown: kramdown
